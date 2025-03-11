@@ -1,0 +1,5 @@
+aiohttp==3.11.13
+keyboard==0.13.5
+python-dotenv==1.0.1
+selenium==4.29.0
+undetected_chromedriver==3.5.5
